@@ -4,7 +4,7 @@ import Image from "next/image";
 
 const products = [
   {
-    id: 1,
+    id: ,
     image: assets.girl_with_headphone_image,
     title: "Unparalleled Sound",
     description: "Experience crystal-clear audio with premium headphones.",

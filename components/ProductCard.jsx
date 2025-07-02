@@ -43,7 +43,7 @@ const ProductCard = ({ product }) => {
                                     ? assets.star_icon
                                     : assets.star_dull_icon
                             }
-                            alt="star_icon"
+                            alt="tar_icon"s
                         />
                     ))}
                 </div>
